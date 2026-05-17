@@ -1,0 +1,21 @@
+{
+  "version": "v1.0.0",
+  "title": {
+    "en": "CoreX Client Upgrade Now Live",
+    "zh-SG": "CoreX 客户端升级正式上线",
+    "zh-TW": "CoreX 客戶端升級正式上線",
+    "ja-JP": "CoreX クライアントアップグレード正式リリース",
+    "ko-KR": "CoreX 클라이언트 업그레이드 정식 출시"
+  },
+  "content": {
+    "en": "Dear Community,\n\nAs the CoreX ecosystem continues to evolve, we remain focused on delivering a faster, more stable, and infrastructure-ready user experience. Today, we are pleased to announce the release of the latest CoreX Client.\n\nThis upgrade introduces significant improvements across system performance, connection reliability, and runtime efficiency, providing a smoother and more resilient experience for both everyday users and advanced network environments.\n\nWhat's New:\n⚡ Optimized Runtime Performance: Reduced latency and improved execution efficiency\n🛰 Enhanced Network Stability: More reliable connectivity across diverse environments\n🔐 Improved Security Architecture: Strengthened protection and operational integrity\n🧠 Adaptive System Optimization: Intelligent environment detection and automatic configuration tuning\n🛠 Infrastructure-Level Enhancements: Better resource management and long-session stability\n\nThe latest CoreX Client is now available for all supported platforms. We strongly recommend updating to the newest version to benefit from the latest optimizations and infrastructure improvements.\n\nYour feedback continues to drive the evolution of CoreX. Thank you for being part of the ecosystem.\n\n— CoreX Team",
+    "zh-SG": "尊敬的社区用户：\n\n随着 CoreX 生态持续演进，我们始终致力于打造更高效、更稳定、更适用于基础设施级场景的使用体验。今日，我们正式发布全新版本 CoreX Client。\n\n本次升级围绕系统性能、网络连接稳定性以及运行效率进行了多项深度优化，为日常使用及复杂网络环境下提供更加流畅、可靠的体验。\n\n本次更新亮点：\n⚡ 运行性能优化：降低延迟，提升整体执行效率\n🛰 网络稳定性增强：适配更多复杂环境，连接更加可靠\n🔐 安全架构升级：进一步强化系统安全与运行完整性\n🧠 智能环境适配：自动识别环境并动态优化配置\n🛠 基础设施级优化：提升资源调度与长时间运行稳定性\n\n最新版 CoreX Client 现已支持全平台下载与更新，建议所有用户尽快升级，以获得最新性能优化与基础设施增强能力。\n\n感谢每一位社区成员的持续支持，您的反馈将持续推动 CoreX 生态进化。\n\n—— CoreX Team",
+    "zh-TW": "尊敬的社群用戶：\n\n隨著 CoreX 生態持續演進，我們始終致力於打造更高效、更穩定且適用於基礎設施級場景的使用體驗。今天，我們正式發布全新版本 CoreX Client。\n\n本次升級針對系統效能、網路穩定性與運行效率進行多項深度優化，為日常使用與複雜網路環境帶來更流暢、可靠的體驗。\n\n本次更新亮點：\n⚡ 運行效能優化：降低延遲並提升整體執行效率\n🛰 網路穩定性增強：適配更多複雜環境，連線更加穩定\n🔐 安全架構升級：進一步強化系統安全與運行完整性\n🧠 智慧環境適配：自動識別環境並動態優化配置\n🛠 基礎設施級優化：提升資源調度與長時間運行穩定性\n\n最新版 CoreX Client 現已支援全平台下載與更新，建議所有用戶盡快升級，以獲得最新效能優化與基礎設施增強能力。\n\n感謝每位社群成員的持續支持，您的回饋將持續推動 CoreX 生態進化。\n\n—— CoreX Team",
+    "ja-JP": "コミュニティの皆様へ\n\nCoreX エコシステムの進化に伴い、私たちはより高速で安定した、インフラレベルに対応可能なユーザー体験の提供に注力しています。本日、最新バージョンの CoreX Client を正式にリリースいたしました。\n\n今回のアップデートでは、システム性能、ネットワーク接続の安定性、実行効率を中心に大幅な最適化を実施し、日常利用から高度なネットワーク環境まで、よりスムーズで信頼性の高い体験を提供します。\n\n主なアップデート内容：\n⚡ 実行性能の最適化：低遅延化と全体的な処理効率向上\n🛰 ネットワーク安定性の強化：多様な環境下でより安定した接続を実現\n🔐 セキュリティアーキテクチャ強化：システム保護と運用整合性を向上\n🧠 インテリジェント環境適応：環境を自動検出し最適化設定を適用\n🛠 インフラレベル最適化：リソース管理と長時間稼働安定性を改善\n\n最新版 CoreX Client は現在すべての対応プラットフォームで利用可能です。最新の最適化とインフラ改善を利用するため、アップデートを推奨します。\n\n皆様からのフィードバックが CoreX の進化を支えています。今後ともよろしくお願いいたします。\n\n— CoreX Team",
+    "ko-KR": "커뮤니티 여러분께,\n\nCoreX 생태계가 지속적으로 발전함에 따라, 저희는 더욱 빠르고 안정적이며 인프라 환경에 최적화된 사용자 경험 제공에 집중하고 있습니다. 오늘 최신 버전의 CoreX Client 출시를 공식적으로 안내드립니다.\n\n이번 업데이트는 시스템 성능, 네트워크 연결 안정성, 실행 효율성 전반에 걸쳐 대규모 최적화를 포함하고 있으며, 일반 사용자뿐만 아니라 복잡한 네트워크 환경에서도 더욱 원활하고 안정적인 경험을 제공합니다.\n\n주요 업데이트 내용:\n⚡ 실행 성능 최적화: 지연 감소 및 전체 처리 효율 향상\n🛰 네트워크 안정성 강화: 다양한 환경에서 더욱 안정적인 연결 지원\n🔐 보안 아키텍처 개선: 시스템 보호 및 운영 안정성 강화\n🧠 지능형 환경 적응: 환경 자동 감지 및 최적 설정 적용\n🛠 인프라 수준 최적화: 리소스 관리 및 장시간 실행 안정성 향상\n\n최신 CoreX Client는 현재 모든 지원 플랫폼에서 다운로드 및 업데이트가 가능합니다. 최신 성능 개선 및 인프라 최적화를 위해 빠른 업데이트를 권장드립니다.\n\n여러분의 피드백은 CoreX 생태계 발전의 원동력입니다. 지속적인 관심과 성원에 감사드립니다.\n\n— CoreX Team"
+  },
+  "WindownloadUrl": "https://github.com/inceptumcloud/inceptum/releases",
+  "MacdownloadUrl": "https://github.com/inceptumcloud/inceptum/releases",
+  "Mac86downloadUrl": "https://github.com/inceptumcloud/inceptum/releases",
+  "mandatory": false
+}
